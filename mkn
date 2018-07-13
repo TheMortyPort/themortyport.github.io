@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <meta lang="en"
+   <meta charset="utf-8">
+   <link rel= "stylesheet" type="text/css" href= "./navbar.css" />
+ <title>My navbar</title>
+</head>
+
+<body>
+  <br /> <!--LINE BREAK-->
+  <div class="navbar"
+  <ul class="navlinks">
+    <li><a href="#link1">link 1</a></li>
+    <li><a href="#link2">link 2</a></li>
+    <li><a href="#link3">link 3</a></li>
+  </ul><!--END NAVLINKS UL-->
+</div> <!--END NAVBAR DIV-->
+<br /> <!--lINE BREAK -->
+</body>
+
+</html>
